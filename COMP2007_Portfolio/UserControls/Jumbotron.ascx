@@ -1,4 +1,5 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Jumbotron.ascx.cs" Inherits="COMP2007_Portfolio.UserControls.Jumbotron" %>
+<%//I have amended my Jumbotron to be my Privacy Statement// %>
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-offset-2 col-md-8">

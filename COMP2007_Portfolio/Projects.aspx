@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Projects.aspx.cs" Inherits="COMP2007_Portfolio.Projects" %>
-
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <%//Project Page - should add the project I worked on at co-op// %>
     <div class="alert-danger" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: black; border: 1px solid black; filter: alpha(opacity=60); width: 75%; text-align: center; position: absolute; margin: 10% 10% 0% 10%;">
             <h1>Karen Springford's Projects</h1>
             <div id="text-box">
